@@ -2,9 +2,11 @@
 title: "一些说明"
 date: "2025-04-04T14:23:38+08:00"
 cover: "images/甲骨文.jpg"
-description: ""
-tags: ["hanzi", "resource"]
+tags:
+  - 汉字
+  - 资源
 toc: true
+summary: "本仓库专注于汇集汉字相关之资料。"
 ---
 
 本仓库专注于汇集汉字相关之资料，诸如常用字表、词表等，可用于习练并精熟汉字相关之文化。
