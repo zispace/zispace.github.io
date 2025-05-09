@@ -1,0 +1,4 @@
+Sitemap: https://zispace.github.io/fanjian/sitemap.xml
+
+User-agent: *
+Disallow: /
